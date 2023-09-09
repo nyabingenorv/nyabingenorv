@@ -5,7 +5,6 @@
 
 - 💬 Ask me about **C, Bash scripting and Python**
 
-- 📫 How to reach me **norvyphill@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
